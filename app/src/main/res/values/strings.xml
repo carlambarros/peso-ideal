@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Peso Ideal</string>
+    <string name="slogan">Seu guia para o IMC saudável</string>
+    <string name="msg_inicial">
+        Descubra seu índice de massa corporal de forma rápida e fácil!
+    </string>
+    <string name="msg_abaixo_peso">
+        Seu corpo precisa de mais energia. Cuide de você com carinho e equilíbrio!
+    </string>
+
+    <string name="msg_normal">
+        Parabéns! Você está no caminho certo. Continue mantendo hábitos saudáveis!
+    </string>
+
+    <string name="msg_sobrepeso">
+        Pequenas mudanças hoje geram grandes resultados amanhã. Comece agora!
+    </string>
+
+    <string name="msg_obesidade_1">
+        Você é capaz de mudar sua realidade. Cada passo conta nessa jornada!
+    </string>
+
+    <string name="msg_obesidade_2">
+        Nunca é tarde para recomeçar. Seu futuro começa com a decisão de hoje!
+    </string>
+
+    <string name="msg_obesidade_3">
+        Sua saúde é prioridade. Busque apoio e dê o primeiro passo com coragem!
+    </string>
+</resources>
